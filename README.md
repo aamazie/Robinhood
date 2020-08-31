@@ -28,6 +28,9 @@ If this is your case, use this to login and then enter your SMS code to the cons
 Python Framework to make trades with Robinhood Private API.
 See this [blog post](https://medium.com/@rohanpai25/reversing-robinhood-free-accessible-automated-stock-trading-f40fba1e7d8b).
 
+## DISCLAIMER
+This API currently has limited options trading functionality.
+
 ## Current Features 
 - Placing buy orders (`Robinhood.place_market_buy_order` and `Robinhood.place_limit_buy_order`)
 - Placing sell order (`Robinhood.place_market_sell_order` and `Robinhood.place_limit_sell_order`)
