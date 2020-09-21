@@ -31,6 +31,9 @@ See this [blog post](https://medium.com/@rohanpai25/reversing-robinhood-free-acc
 ## Options Disclaimer
 This API currently has limited options trading functionality. Placing options orders functionality is missing, as well as some options data functionality.
 
+## Prices Disclaimer
+This API currently is unofficial and may have times where prices or information may return distorted, delayed, or incorrect.
+
 ## Current Features 
 - Placing buy orders (`Robinhood.place_market_buy_order` and `Robinhood.place_limit_buy_order`)
 - Placing sell order (`Robinhood.place_market_sell_order` and `Robinhood.place_limit_sell_order`)
