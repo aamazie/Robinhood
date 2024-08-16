@@ -1,5 +1,7 @@
 # Robinhood Python API (UNOFFICIAL)
 
+#This was like a schizo paranoid dream I had back in the day where I wanted a trading bot and it wanted the api to come back because robinhood changed the auth so we fixed it and this is the old code..
+
 WARNING!!
 
 Robinhood is now requiring a mandatory MFA.
